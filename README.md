@@ -37,4 +37,10 @@ Running tests in UI mode
 ```
 yarn playwright test --ui
 ```
-
+Codegen
+```
+npx playwright codegen YOUR_URL
+```
+```
+npx playwright codegen demo.playwright.dev/todomvc
+```
